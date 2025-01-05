@@ -12,6 +12,7 @@ function App() {
         <h6>Lorem, ipsum dolor.</h6>
         <h6>Lorem, ipsum dolor.</h6>
         <h6>Lorem, ipsum dolor.</h6>
+        <h4>Lorem ipsum dolor sit.</h4>
       </div>
     </>
   )
